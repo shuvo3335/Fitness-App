@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".exercise.abs">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Glute Bridge"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/glute_bridge"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/glute_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bird-dog"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bird_dogs" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bird_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Bodyweight Squat"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bodyweight_squat" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bodyweight_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crunch"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/crunch"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crunch_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Decline Plank"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/decline_plank"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/DeclinePlank_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cobra"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/cobra"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cobra_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inchworms"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/inchworm"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/inchworm_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reverse Crunch"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/reverse"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/reverse_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Single Arm Plank"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/single_plank"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/single_hand"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mountain Climber"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/mountain_climb"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mountain_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jumping Jack"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/jumping_jack"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jumping_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+    </LinearLayout>
+
+</ScrollView>

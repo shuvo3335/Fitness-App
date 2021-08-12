@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".exercise.Shoulder">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Barbell Jammers"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/barbell_jammer"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/barbelljammer_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bent Knee Push-ups"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bent_knee_pushupp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bentknee_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bent Over Row"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bent_over_row"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bent_over_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chest Press"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/chest_press"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chestPress_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Seated Chest Press"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/seated_chest_press"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/seatedChest_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Front Raise"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/front_raise"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/frontRaise_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Halo"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/halo"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/halo_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="InchWorm"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/inchworm"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/inchworm_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Push-Ups"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/pushup"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pushup_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Supermans"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/superman"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/superman_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

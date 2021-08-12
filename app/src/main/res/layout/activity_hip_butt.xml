@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".exercise.Hip_butt">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back Squat"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/back_squat"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/back_squatText"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Barbell Jammers"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/barbell_jammer"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/barbelljammer_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bird-dog"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bird_dogs"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bird_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Body Weight Squat"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bodyweight_squat"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bodyweight_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Child Pose"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/child_pose"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/child_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cycled Split-squat Jump"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/cycle_split_squat"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cyclesplit_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Front Squat"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/front_squat"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/frontSquat_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Glute Bridge"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/glute_bridge"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/glute_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Halo"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/halo"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/halo_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jump Squat"
+            android:layout_gravity="center"
+            android:textSize="30sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="1dp"
+            android:paddingLeft="10dp"
+            android:background="@color/colorPrimaryDark" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/jump_squat"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jumpSquat_text"
+            android:layout_marginLeft="5dp"
+            android:textSize="17sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Health Fitness Goal</string>
+    <string name="Menu_exit">Exit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Home">Home</string>
+    <string name="News">News</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="Heart_Rate">Heart Rate</string>
+    <string name="Hearing_Wellbeing">Hearing Wellbeing</string>
+    <string name="Walk"> Walk </string>
+    <string name="Rest"> Rest </string>
+    <string name="Clear"> Clear </string>
+    <string name="numeral_0">0</string>
+    <string name="Save">Save</string>
+    <string name="Load_Defaults">Load Defaults</string>
+    <string name="Clear_App_Data">Clear Data</string>
+    <string name="Calculator">"Calculator"</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_whr">WHR</string>
+    <string name="Step">Step </string>
+    <string name="Frequency">Frequency(Hz):</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Next">Next</string>
+    <string name="videos">Videos</string>
+    <string name="Food">Food</string>
+    <string name="Exercise">Exercise</string>
+    <string name="Keep_finger_on_HRM_sensor">Keep your finger on the sensor and wait…</string>
+    <string name="Keep_finger_on_Camera">Keep your finger on camera and flash light and wait…</string>
+    <string name="Tap_on_YES_if_you_hear_the_sound">Tap on YES if you hear the sound</string>
+    <string name="developed_by">Developed by Faisal</string>
+    <!--  <string name="Github_Link">https://github.com/kvsjxd/CalorieScope</string>-->
+
+    <string name="about_paragraph">"We all know the popular saying health is wealth. The loss of health is a loss of all happiness. Now a days people are busy in daily schedules and find no time to exercise therefore an app called Fitness Goal has been introduced which can keep track of the basic exercise which is running and walking. Walking and running are good exercises. While working we move around a lot and therefore this app can count the steps. Walking is the easiest way to burn calories and keep your body in good shape. With this app you can count the calories burnt in real time as you walk or run. \n"
+        "So our app will keep you healthy and fit. \n"</string>
+
+    <string name="PersonName">Name</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="your_bmi_is">Your Body Mass index is </string>
+    <string name="your_whr_is">Your Waist Hip ratio is </string>
+    <string name="your_last_heart_rate_check_was">Your last heart rate check was </string>
+    <string name="enter_title">Enter title</string>
+    <string name="application_logo">Application logo</string>
+    <string name="today_s_summery">Today\'s Summery</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="check">Check</string>
+    <string name="step_counter">Step Counter</string>
+    <string name="calories_burnt">Calories Burnt</string>
+    <string name="x">X</string>
+    <string name="water_glasses">Water glasses: </string>
+    <string name="_0_ml">( 0 ml )</string>
+    <string name="caffeine_glasses">Caffeine glasses: </string>
+    <string name="numeral_1"> 1 </string>
+    <string name="of_12"> of 12</string>
+    <string name="numeral_2000">2000</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_m">Height (m)</string>
+    <string name="calculate">Calculate</string>
+    <string name="heart_icon">heart icon</string>
+    <string name="foot_icon">foot icon</string>
+    <string name="calories_icon">calories icon</string>
+    <string name="clear_fluids_icon">clear fluids icon</string>
+    <string name="add_water_icon">add water icon</string>
+    <string name="add_caffeine_icon">add caffeine icon</string>
+    <string name="exercise_icon">exercise icon</string>
+    <string name="video_thumbnail">video thumbnail</string>
+    <string name="news_thumbnail">news thumbnail</string>
+    <string name="_3rd_party_libraries_used">3rd party libraries used</string>
+    <string name="picasso">* picasso</string>
+    <string name="volley">* volley</string>
+    <string name="perfecttune">* perfectTune</string>
+    <string name="pulseview">* pulseview</string>
+    <string name="_3rd_party_adapted_code">3rd party adapted code</string>
+    <string name="step_counter_using_accelerometer">* Step counter using accelerometer</string>
+    <string name="heart_rate_detector_using_camera_sensor_and_led">* Heart Rate detector using camera sensor and LED</string>
+    <string name="greating_text">Enjoy the sweating and stay healthy.</string>
+    <string name="select_exercises">Select Your Daily Exercises</string>
+    <string name="glute_text">
+        "Starting Position: Lie supine (on your back) on an exercise mat or the floor in a bent-knee position with your feet flat on the floor. \n"
+        "Upward Phase: Gently exhale while holding your abdominal contraction and press your hips upwards off the floor into extension by contracting your glutes (butt muscles). \n"
+        "Lowering Phase: Inhale and slowly lower yourself back towards your starting position. \n"
+    </string>
+    <string name="bird_text"> "Begin on all fours with your hands directly under your shoulders and your knees directly under your hips. Pull your abs in to your spine. Return to the starting position, placing your hand and knee on the floor. Do five to 10 reps. \n "</string>
+    <string name="bodyweight_text">
+        "How to perform the bodyweight squat. Set your feet shoulder-width apart, toes slightly turned out. Slowly bend at the knees and drop your hips to lower your body. At the bottom of the exercise pause for a moment and strongly push back up to the starting position, mirroring the descent. Repeat for desired number of reps. \n"
+    </string>
+    <string name="crunch_text">
+        "Place your hands behind your head, squeezing your scapulae (shoulder blades) together and pulling your elbows back without arching your low back. This elbow position should be maintained throughout the exercise. \n"
+    </string>
+    <string name="DeclinePlank_text">
+        "With the feet close together on top of the BOSU dome, place the elbows on the ground underneath the shoulders with the hands in fists. Squeeze the muscles of the stomach and glute, and keep the body in a straight line from head to heels. Hold this position for the desired amount of time. \n"
+    </string>
+    <string name="cobra_text">
+        "Starting Position: Lie prone (on your stomach) on an exercise mat or floor with your hands by your sides, positioned directly under your shoulders and hands facing forward. Extend your legs and plantar flex your ankles (toes point away from body).\n"
+    </string>
+    <string name="inchworm_text">
+        "Starting Position:  From a standing position with your feet together or slightly apart, stiffen (“brace”) your abdominal muscles to stabilize your spine. Repeat this movement and continue for 10 – 15 yards (9-13 m). \n"
+    </string>
+    <string name="reverse_text">
+        "Step 1 Lie on your back with your knees together and your legs bent to 90 degrees, feet planted on the floor. Step 2 Tighten your abs to lift your hips off the floor as you crunch your knees inward to your chest. Avoid doing the exercise too quickly. \n"
+    </string>
+    <string name="single_hand">
+        "Start in a push-up position with the hands under the shoulders and the legs extended directly behind wider than shoulder-width apart. Squeeze the thighs and glutes while lifting one hand off the mat bringing it to the hip and pressing the other hand into the ground. \n"
+    </string>
+    <string name="mountain_text">
+        "Mountain Climbers are a killer exercise that get your heart rate up fast while also firing nearly every muscle group in the body—deltoids, biceps, triceps, chest, obliques, abdominals, quads, hamstrings and hip abductors. 8per reps\n"
+    </string>
+    <string name="jumping_text">
+        "A jumping jack or star jump, also called side-straddle hop in the US military, is a physical jumping exercise performed by jumping to a position with the legs spread wide and the hands touching overhead, sometimes in a clap, and then returning to a position with the feet together and the arms at the sides. Do it for 30sec. \n"
+    </string>
+    <string name="cat_text">
+    "Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body). \n"
+    "Upward (Cat) Phase: hold this position for 10 - 15 seconds. \n"
+    "Downward (Cow) Phase: hold this position for 10 - 15 seconds. \n"
+</string>
+    <string name="child_text">
+        "Starting Position: Kneel with both knees directly under your hips and feet plantar flexed (toes pointing behind you) with the big toes touching. \n"
+        "Hold this position for 5-10 slow, deep breaths (approximately 30 seconds to a minute).\n"
+    </string>
+    <string name="chin_up_text">
+        "Starting Position: Stand under the chin-up bar and reach your arms overhead with your palms facing you.  Reach, jump or lift your body off the floor to grasp the handles firmly with a full grip position (thumbs wrapped around the handles).\n"
+    </string>
+    <string name="frontPlank_text">
+    "Upward Phase. Slowly lift your entire torso off the floor or mat, maintaining a stiff torso and legs. Avoid any arching (sagging) in your low back, hiking (upwards) in your hips or bending in the knees.\n"
+    "holding this position for a specified time (5+ seconds).\n"
+</string>
+
+    <string name="frontSquat_text">
+        "Starting Position: Stand with your feet slightly wider than hip-width, facing outward or turned slightly outwards while holding a dumbbell in each hand. \n"
+        "Downward Phase: Start the downward phase by first shifting your hips backwards then downwards to create a hinge-like movement at your knees. As you lower your hips the knees will then start to shift forward slowly. \n"
+    </string>
+    <string name="standingShurg_text">
+        "Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles with your palms facing your body). \n"
+        "Upward Phase: Exhale and slowly shrug your shoulders upward, avoiding any shoulder rotation or elbow flexion (bending).\n"
+        "Downward Phase: Inhale and gently lower the dumbbells back towards your starting position keeping your elbows extended and neutral grip position. Maintain your split-stance, torso, shoulder and wrist positions.\n"
+    </string>
+
+    <string name="bent_over_text">
+        "Grip a barbell with palms down so that the wrists, elbows, and shoulders are in a straight line. Lift the bar from the rack, bend forward at the hips, and keep the back straight with a slight bend in the knees. \n"
+    </string>
+    <string name="Bicep_Curl_text">
+        "Hold the barbell with both hands facing up so the wrists, elbows, and shoulders are in a straight line about shoulder-width apart. Lift the barbell toward the shoulders while bending the elbows and keeping them next to the middle of the body.\n"
+    </string>
+    <string name="cyclesplit_text">
+        "Assume a lunge position with the right leg forward (hip and knee joints flexed to approximately 90 degrees) and the left behind the mid-line of the body. Drop your knees and hips a little, as you would before jumping, and then explosively jump up, throwing the arms up to assist the movement.\n"
+    </string>
+    <string name="hammerCurl_text">
+        "Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles with your palms facing your body).\n"
+        "Upward Phase: Exhale and slowly flex (bend) one or both elbows in unison until the dumbbell(s) near(s) the front of your shoulder. It performing alternating arm curls.\n"
+        "Downward Phase: Inhale and gently lower the dumbbells back towards your starting position until the elbow(s) is/are fully extended, keeping the dumbbell in the neutral position.\n"
+    </string>
+
+    <string name="standingbicep_text">
+        "Place the center of a resistance band under one foot and grasp the handles with one in each hand. With the palms facing the ceiling, bend the elbows to bring the hands up toward the shoulders. Keep the elbows in close to the sides through the movement, and lower slowly back down to complete the repetition.\n"
+    </string>
+    <string name="barbelljammer_text">
+        "Step 1: Place one end of the barbell in the corner or in the holder and then place the weight on the other end.\n"
+        "Step 2: Stand on the end that has the weight on it and and grab it with both hands.\n"
+        "Step 3: Squat slightly down and hold the barbell in the center of your chest. \n"
+        "Step 4: Push the barbell up with both hands and then lower it back down to your chest.\n"
+    </string>
+    <string name="bentknee_text">
+        "Please begin by bending over at the knees and waist, on the floor on your knees supported by your hands in front of you.\n"
+        "With your hands about shoulder width apart, back flat and head looking forward. Slowly lower yourself back bending at the elbows to where you chest touches, or barely touches, the ground.\n"
+    </string>
+    <string name="chestPress_text">
+        "Lie face up on a flat bench, and grip a barbell with the hands slightly wider than shoulder-width. Press the feet into the ground and the hips into the bench while lifting the bar off the rack. Slowly lower the bar to the chest by allowing the elbows to bend out to the side. Stop when the elbows are just below the bench, and press feet into the floor to press the weight straight up to return to the starting position.\n"
+    </string>
+    <string name="halo_text">
+        "Stand with the feet approximately shoulder-width apart and hold a kettlebell by the horns directly in front of the chest. Keep the back straight while moving the kettlebell from in front of the chest to over the right shoulder, reaching across the body with the left arm. Continue moving the kettlebell around and behind the head to bring it back to the chest by passing it over the left shoulder.\n"
+    </string>
+    <string name="seatedChest_text">
+        "Starting Position: Sit with your back firmly supported against the backrest. Adjust the seat height so that the handles are level with your mid-chest\n"
+        "Gently exhale and slowly perform a pressing movement, extending your elbows infront, while maintaining a neutral wrist position, and keep your head aligned with your spine.\n"
+    </string>
+    <string name="back_squatText">
+        "Place a barbell in a rack just below shoulder-height. Dip under the bar to put it behind the neck across the top of the back, and grip the bar with the hands wider than shoulder-width apart.\n"
+    </string>
+    <string name="jumpSquat_text">
+        "Start with your arms by your side, feet shoulder width apart, head up, and back straight.\n"
+        "Keeping your back straight and chest up, squat down as you inhale until your upper thighs are parallel, or lower, to the floor.\n"
+        "Now pressing mainly with the balls of your feet, jump straight up in the air as high as possible, using the thighs like springs. When you touch the floor again, immediately squat down and jump again. Repeat for the recommended amount of repetitions.\n"
+    </string>
+
+    <string name="frontRaise_text">
+        "Hold the attachment with palms facing your body (a pronated grip), your back to the cable station, feet shoulder-width apart and the pulley running between your legs. Lift the bar to shoulder height keeping your arms outstretched, pausing at the top of the movement, then slowly lower again.\n"
+    </string>
+    <string name="pushup_text">
+        "Keep upper arms close to your sides and back straight. Elbows should point behind, not out. Straighten arms to the starting position; repeat for 8 to 12 reps or as many as you can do.\n"
+    </string>
+    <string name="superman_text">
+        "Lie with your chest down on the floor. Extend your arms out on the ground on either side of your chest to form a 'T' shape. Squeeze your glutes and lower back to raise your arms and the top of your chest off the floor. Be sure to squeeze your upper back to lift your arms as well.\n"
+    </string>
+
+
+    <string name="nearby_gym">Nearby Gym Center</string>
+    <string-array name="exercise_name">
+        <item> ABS </item>
+        <item> Arms </item>
+        <item> Back exercise </item>
+        <item> Chest </item>
+        <item> Legs and Thighs </item>
+        <item> Hips / Butt </item>
+        <item> Shoulders </item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
