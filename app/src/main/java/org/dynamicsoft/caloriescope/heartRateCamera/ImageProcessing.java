@@ -1,10 +1,6 @@
 package org.dynamicsoft.caloriescope.heartRateCamera;
 
-/**
- * This abstract class is used to process images.
- *
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 public abstract class ImageProcessing {
 
     private static int decodeYUV420SPtoRedSum(byte[] yuv420sp, int width, int height) {
